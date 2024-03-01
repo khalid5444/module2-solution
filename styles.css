@@ -1,8 +1,9 @@
 /* Reset default browser styles */
-body, h1, h2, h3, p, ul, li {
+body {
     margin: 0;
     padding: 0;
-    background-color: aqua;
+
+
 }
 
 /* Ensure box-sizing is border-box */
